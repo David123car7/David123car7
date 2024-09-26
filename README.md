@@ -2,10 +2,8 @@
    <h1><span style="color: blue;">Hi there, I'm David</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-# About Me:
-- My name is David and i am 20 years old<br>
 - Studying computer systems engineering at IPCA<br>
-- I’m currently learning unreal engine 5<br>
+- Currently learning unreal engine 5<br>
 
 
 ## Socials:

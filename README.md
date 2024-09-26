@@ -4,8 +4,8 @@
 
 # About Me:
 - My name is David and i am 20 years old<br>
-- Studying computer systems engineering at IPCA.<br>
-- I’m currently learning unreal engine 5.<br>
+- Studying computer systems engineering at IPCA<br>
+- I’m currently learning unreal engine 5<br>
 
 
 ## Socials:
